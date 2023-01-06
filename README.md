@@ -7,4 +7,14 @@ A basic bingo game that has following rules:
 - You can have multiple bingos
 
 
-As suggested, so not using confetti but simple awareness text when the person wins the game.
+As suggested, so not using confetti but simple awareness text when the person wins the game. 
+
+Made with vite-react-typescript template.
+
+To run the game:
+- git clone {URL}
+- cd directory
+- npm install 
+- npm run dev
+
+Open the url http://localhost:5173/
